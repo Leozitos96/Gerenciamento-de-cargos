@@ -1,0 +1,33 @@
+{
+  "session": [],
+  "users": [
+    {
+      "id": "1",
+      "nome": "Magrao",
+      "email": "magrao@gmail.com",
+      "password": "123321",
+      "cargo": "ADM"
+    },
+    {
+      "id": "1749097278615",
+      "email": "teste@gmail.com",
+      "nome": "TESTE",
+      "password": "123321",
+      "cargo": "SUPERVISOR"
+    },
+    {
+      "id": "1749249145101",
+      "email": "magraoo@gmail.com",
+      "nome": "ooooooooooo",
+      "password": "123321",
+      "cargo": "SUPERVISOR"
+    },
+    {
+      "id": "1749249560344",
+      "email": "leonardo.kerne@senacps.edu.br",
+      "nome": "asdadasd",
+      "password": "123321",
+      "cargo": "ESPECIALISTA"
+    }
+  ]
+}
